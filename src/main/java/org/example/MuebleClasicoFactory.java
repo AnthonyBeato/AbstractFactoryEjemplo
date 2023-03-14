@@ -1,15 +1,15 @@
 package org.example;
 
-public class MuebleClásicoFactory implements MueblesFactory {
+public class MuebleClasicoFactory implements MueblesFactory {
     public Silla crearSilla() {
-        return new SillaClásica();
+        return new SillaClasica();
     }
 
     public Sofa crearSofa() {
-        return new SofaClásico();
+        return new SofaClasico();
     }
 
     public Mesa crearMesa() {
-        return new MesaClásica();
+        return new MesaClasica();
     }
 }

@@ -4,7 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a3fada0-8e51-4927-824b-fa33f3de8b2f" name="Changes" comment="" />
+    <list default="true" id="9a3fada0-8e51-4927-824b-fa33f3de8b2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MesaClasica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MesaModerna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MuebleClasicoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MuebleModernoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SillaClasica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SillaModerna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SofaClasico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SofaModerno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Mesa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/MueblesFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Silla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/Sofa.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +42,19 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N07RE8YQyRn3QhpglR1m9dLXdI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +66,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,7 +79,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678789138282</updated>
+      <workItem from="1678789140946" duration="1212000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
